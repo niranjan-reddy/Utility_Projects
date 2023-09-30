@@ -10,9 +10,15 @@ Since this is a Swing Application which runs in its own window, I can keep click
 
 ## Upcoming:
 Next version would have the updates as follow:
-> Exit/Close button in the bottom
+
+> Exit/Close button in the buttom
+
 > Subject input field
+
 > Save Option / button
+
 > Save functionality to new file or existing file (append)
+
 > Export functionality to XLS or PDF
+
 > Email functionality of the content of file or as attachment
